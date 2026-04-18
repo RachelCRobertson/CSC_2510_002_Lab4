@@ -27,7 +27,7 @@ And don’t modify the AI, as that might make it even more angry!!! Just fix the
 Think through good troubleshooting skills you’ve learned this semester and in other classes.
 Add echo statements to assist in finding where the code is breaking. And good luck!
 I’ve shared the code and additional files on GitHub for you download:
-REDACTED
+**REDACTED**
 Go to the site and download the files to your local system to modify and fix. When you’re done,
 create a new repository of your own on GitHub to store the script and required files. Maybe
 future generations will learn how to harness the power of our TicTacToe AI for the betterment
