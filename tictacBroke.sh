@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 # Tic-Tac-Toe with minimax + alpha-beta pruning (Bash)
-# Author: Regis Billings and M365 Copilot (colorless v4)
+# Author: Regis Billings and M365 Copilot (colorless v4),
+#	  Modified by Rachel Robertson
 # - No ANSI colors; plain ASCII so it renders consistently everywhere.
 # - Portable to Bash 3.x+; avoids echo -e and ${var^^}.
 
